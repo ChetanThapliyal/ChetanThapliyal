@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&descSize=50"/>
+</p>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=500&size=28&pause=1000&color=F7B122&background=53FEFF00&center=true&vCenter=true&random=false&width=435&lines=Hey%2C+Welcome+to+My+Portfolio!+%F0%9F%98%8E)](https://git.io/typing-svg)
 
 ### Cloud and DevOps Engineer from India
