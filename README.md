@@ -7,14 +7,14 @@
 - 👯 I'm actively seeking collaborative opportunities on exciting Cloud and DevOps projects, eager to contribute my skills and learn from others in the field.
 - 🤔 I'm open to guidance and mentorship as I transition towards a pivotal role in the cloud computing industry.
 - ⚡ Fun fact: When I'm not coding, I indulge in my culinary adventures, experimenting with recipes from various cultures around the globe.
-### 📫 How to reach me:
+
+#### 📫 How to reach me:
 <a href="https://twitter.com/ChetanThapliyal">
   <img align="left" alt="Chetan's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
 </a>
 <a href="https://linkedin.com/in/chetanthapliyal">
   <img align="left" alt="Chetan's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
----
 
 ### Tech I work with 🖱️
 
