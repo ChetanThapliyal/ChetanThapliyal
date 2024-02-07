@@ -15,6 +15,7 @@
 <a href="https://linkedin.com/in/chetanthapliyal">
   <img align="left" alt="Chetan's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
+-
 
 ### Tech I work with 🖱️
 
