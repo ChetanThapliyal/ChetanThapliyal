@@ -13,13 +13,15 @@
 - ⚡ Fun fact: When I'm not coding, I indulge in my culinary adventures, experimenting with recipes from various cultures around the globe.
 
 #### 📫 How to reach me:
-<a href="https://twitter.com/ChetanThapliyal">
-  <img align="left" alt="Chetan's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
-</a>
-<a href="https://linkedin.com/in/chetanthapliyal">
-  <img align="left" alt="Chetan's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
-</a>
--
+<div align="left">
+  
+  [![Linkedin Badge](https://img.shields.io/badge/-Chetan%20Thapliyal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chetanthapliyal/)](https://www.linkedin.com/in/chetanthapliyal/)
+  [![Hashnode Badge](https://img.shields.io/badge/-Blog-2962ff?style=flat-square&label&logo=Hashnode&link=https://blog.chetan-thapliyal.cloud/)](https://blog.chetan-thapliyal.cloud/)
+  [![Tutanota Badge](https://img.shields.io/badge/-Mail-840010?style=flat-square&logo=Tutanota&logoColor=white&link=mailto:chetan_thapliyal@tuta.io)](mailto:chetan_thapliyal@tuta.io)
+  [![Twitter Badge](https://img.shields.io/badge/-X-000000?style=flat-square&label&logo=X&link=https://twitter.com/ChetanThapliyal)](https://twitter.com/ChetanThapliyal)
+</div>
+
+
 
 ### Tech I work with 🖱️
 <p align="left">
