@@ -1,4 +1,4 @@
-![Blob Sunglasses Emoji](https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=500&size=28&pause=1000&color=F7B122&background=53FEFF00&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+Welcome+to+My+Portfolio!)](https://git.io/typing-svg)
+![Blob Sunglasses Emoji](https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430){:width="30"}[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=500&size=28&pause=1000&color=F7B122&background=53FEFF00&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+Welcome+to+My+Portfolio!)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on Cloud Resume Challenge
 - 🌱 I’m currently learning Google Cloud Platform (architecture, autoscaling and security)
