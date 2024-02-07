@@ -1,4 +1,15 @@
 # Welcome to My Personal Portfolio! ![blob-sunglasses](images/1531849430/4246/blob-sunglasses.gif?1531849430)
+- 🔭 I’m currently working on Cloud Resume Challenge
+- 🌱 I’m currently learning Google Cloud Platform (architecture, autoscaling and security)
+- 👯 I’m looking to collaborate on Cloud and DevOps projects
+- 🤔 I’m looking for help with transitioning into Cloud role.
+- 💬 Ask me about I
+- 📫 How to reach me: <a href="https://linkedin.com/in/chetanthapliyal">
+  <img align="left" alt="Chetan's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
+</a> | <a href="https://twitter.com/ChetanThapliyal">
+  <img align="left" alt="Chetan's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
+</a>
+- ⚡ Fun fact: ..
 
 ## Things I code with
 
@@ -31,6 +42,7 @@
 <a href="https://twitter.com/ChetanThapliyal">
   <img align="left" alt="Chetan's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
 </a>
+
 <a href="https://linkedin.com/in/chetanthapliyal">
   <img align="left" alt="Chetan's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
