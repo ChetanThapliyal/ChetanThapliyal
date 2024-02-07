@@ -47,7 +47,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" lt="neovim" width="45" height="45"/>
 </p>
 
-&nbsp;&nbsp;&nbsp;
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
