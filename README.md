@@ -4,9 +4,7 @@
 - 👯 I’m looking to collaborate on Cloud and DevOps projects
 - 🤔 I’m looking for help with transitioning into Cloud role.
 - 💬 Ask me about I
-- 📫 How to reach me:
-  - [![Chetan's LinkedIn](https://img.shields.io/badge/-ChetanThapliyal-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/chetanthapliyal)
-  - [![Chetan's Twitter](https://img.shields.io/badge/-ChetanThapliyal-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/ChetanThapliyal)
+- 📫 How to reach me: [![Chetan's LinkedIn](https://img.shields.io/badge/-ChetanThapliyal-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/chetanthapliyal) | [![Chetan's Twitter](https://img.shields.io/badge/-ChetanThapliyal-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/ChetanThapliyal)
 - ⚡ Fun fact: ..
 
 ## Things I code with
