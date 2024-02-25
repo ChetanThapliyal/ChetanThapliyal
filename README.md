@@ -15,9 +15,9 @@
 #### 📫 How to reach me:
 <div align="left">
   
-  [![Linkedin Badge](https://img.shields.io/badge/-Chetan%20Thapliyal-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chetanthapliyal/)](https://www.linkedin.com/in/chetanthapliyal/)
-  [![Hashnode Badge](https://img.shields.io/badge/-Chetan's%20Blog-2962ff?style=flat-square&label&logo=Hashnode&link=https://blog.chetan-thapliyal.cloud/)](https://blog.chetan-thapliyal.cloud/)
-  [![Tutanota Badge](https://img.shields.io/badge/-Mail-840010?style=flat-square&logo=Tutanota&logoColor=white&link=mailto:chetan_thapliyal@tuta.io)](mailto:chetan_thapliyal@tuta.io)
+  [![Linkedin Badge](https://img.shields.io/badge/-Let's%20Connect-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chetanthapliyal/)](https://www.linkedin.com/in/chetanthapliyal/)
+  [![Hashnode Badge](https://img.shields.io/badge/-My%20Blogs-2962ff?style=flat-square&label&logo=Hashnode&link=https://blog.chetan-thapliyal.cloud/)](https://blog.chetan-thapliyal.cloud/)
+  [![Tutanota Badge](https://img.shields.io/badge/-Mail%20Me-840010?style=flat-square&logo=Tutanota&logoColor=white&link=mailto:chetan_thapliyal@tuta.io)](mailto:chetan_thapliyal@tuta.io)
   [![Twitter Badge](https://img.shields.io/badge/-Tweet-000000?style=flat-square&label&logo=X&link=https://twitter.com/ChetanThapliyal)](https://twitter.com/ChetanThapliyal)
 </div>
 
