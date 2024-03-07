@@ -23,7 +23,7 @@
 
 
 
-### Tech I work with 🖱️
+### Tech I work with 🖱️⌨️
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="azure" width="45" height="45"/>
