@@ -2,11 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&descSize=50"/>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=500&size=28&pause=1000&color=F7B122&background=53FEFF00&center=true&vCenter=true&random=false&width=435&lines=Hey%2C+Welcome+to+My+Github!+%F0%9F%98%8E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=500&size=28&pause=1000&color=F7B122&background=53FEFF00&center=true&vCenter=true&random=false&width=435&lines=Hey%2C+Welcome+to+My+Github!)](https://git.io/typing-svg)
 
 ### Cloud and DevOps Engineer from India
 ---
-- 🔭 I'm currently working on Cloud Resume Challenge that highlights my cloud expertise.
+- 🔭 I'm currently working on getting Associate Cloud Engineer certification by Google Cloud.
 - 🌱 I'm currently expanding my knowledge base by diving deep into the intricacies of the Google Cloud Platform (architecture, autoscaling, and security)
 - 👯 I'm actively seeking collaborative opportunities on exciting Cloud and DevOps projects, eager to contribute my skills and learn from others in the field.
 - 🤔 I'm open to guidance and mentorship as I transition towards a pivotal role in the cloud computing industry.
