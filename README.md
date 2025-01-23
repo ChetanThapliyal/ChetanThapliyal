@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia&pause=1000&repeat=false&width=480&lines=Exceed+Expectations%2C+Automate+Innovation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia&pause=1000&color=F75908&width=480&height=70&lines=Exceed+Expectations%2C+Automate+Innovation)](https://git.io/typing-svg)
 
 ### Cloud and DevOps Engineer from India
 ---
