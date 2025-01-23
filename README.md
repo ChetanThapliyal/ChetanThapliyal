@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&descSize=50"/>
-</p>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia&pause=1000&repeat=false&width=480&lines=Exceed+Expectations%2C+Automate+Innovation)](https://git.io/typing-svg)
 
 ### Cloud and DevOps Engineer from India
