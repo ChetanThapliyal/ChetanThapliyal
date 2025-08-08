@@ -8,7 +8,7 @@
 - 🤔 I'm open to guidance and mentorship as I transition towards a pivotal role in the cloud computing industry.
 - ⚡ Fun fact: When I'm not coding, I indulge in my culinary adventures, experimenting with recipes from various cultures around the globe.
 
-## 📫 How to reach me:
+## 📫 Let's Connect:
 <div align="left">
   
   [![Linkedin Badge](https://img.shields.io/badge/-Let's%20Connect-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chetanthapliyal/)](https://www.linkedin.com/in/chetanthapliyal/)
