@@ -3,7 +3,6 @@
 ### Cloud & DevOps Engineer from India
 ---
 
-- 🏆 Certified **Google Cloud Associate Cloud Engineer (ACE)** & **Professional Cloud Architect (PCA)**
 - 🔭 Currently preparing for the **Certified Kubernetes Administrator (CKA)** certification, deepening expertise in container orchestration, cluster management, and Kubernetes security
 - 🌱 Continuously expanding my knowledge in cloud-native architectures, infrastructure automation, and platform engineering
 - 👯 Actively seeking collaborative opportunities on Cloud, DevOps, and Platform Engineering projects — always eager to contribute and learn
@@ -22,14 +21,6 @@
   [![Twitter Badge](https://img.shields.io/badge/-Tweet-000000?style=flat-square&label&logo=X&link=https://twitter.com/ChetanThapliyal)](https://twitter.com/ChetanThapliyal)
 
 </div>
-
----
-
-## 🏅 Certifications
-
-- ✅ Google Cloud Certified — **Associate Cloud Engineer (ACE)**
-- ✅ Google Cloud Certified — **Professional Cloud Architect (PCA)**
-- 🔄 In Progress — **Certified Kubernetes Administrator (CKA)**
 
 ---
 
