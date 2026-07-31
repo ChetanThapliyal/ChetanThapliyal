@@ -1,23 +1,25 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia&pause=1000&color=F75908&width=480&height=70&lines=Exceed+Expectations%2C+Automate+Innovation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia&pause=1000&color=F75908&width=520&height=70&lines=Exceed+Expectations%2C+Automate+Innovation)](https://git.io/typing-svg)
 
-### Cloud & DevOps Engineer from India
+### Cloud & DevOps Engineer from India | GCP Certified Cloud Architect | CKA
 ---
 
-- 🔭 Currently preparing for the **Certified Kubernetes Administrator (CKA)** certification, deepening expertise in container orchestration, cluster management, and Kubernetes security
-- 🌱 Continuously expanding my knowledge in cloud-native architectures, infrastructure automation, and platform engineering
-- 👯 Actively seeking collaborative opportunities on Cloud, DevOps, and Platform Engineering projects — always eager to contribute and learn
-- 🤔 Open to mentorship and knowledge-sharing as I grow into a senior role in cloud infrastructure and DevOps
-- ⚡ Fun fact: When I'm not architecting cloud solutions, I indulge in culinary adventures — experimenting with recipes from cultures around the globe
+- 🔭 Currently building **Project-Aether** — a production-grade k3s homelab (multi-node cluster, ArgoCD GitOps, Terraform provisioning, SOPS+age secrets, Tailscale zero-trust access, full observability stack)
+- 🎯 Working through the **Google Cloud Arcade Facilitator Program 2026**, targeting the Arcade Legend tier
+- ✍️ Technical writer & freelance ghostwriter — 30+ posts on Hashnode, plus a structured knowledge base ([**Lexicon**](https://base.chetan-thapliyal.cloud/)) covering Kubernetes, GCP, CI/CD, and IaC
+- 🌱 Deepening expertise in platform engineering, GitOps workflows, and cloud-native observability
+- 👯 Open to collaboration on Cloud, DevOps, and Platform Engineering projects — always eager to contribute and learn
+- ⚡ Fun fact: outside of infra work, I'm chipping away at JLPT N3 Japanese and tending a home garden
 
 ---
 
 ## 📫 Let's Connect
 
 <div align="left">
-  
+
   [![Linkedin Badge](https://img.shields.io/badge/-Let's%20Connect-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chetanthapliyal/)](https://www.linkedin.com/in/chetanthapliyal/)
   [![Hashnode Badge](https://img.shields.io/badge/-My%20Blogs-2962ff?style=flat-square&label&logo=Hashnode&link=https://blog.chetan-thapliyal.cloud/)](https://blog.chetan-thapliyal.cloud/)
-  [![Tutanota Badge](https://img.shields.io/badge/-Mail%20Me-840010?style=flat-square&logo=Tutanota&logoColor=white&link=mailto:chetan_thapliyal@tuta.io)](mailto:chetan_thapliyal@tuta.io)
+  [![Lexicon Badge](https://img.shields.io/badge/-Lexicon%20KB-6C4EE3?style=flat-square&label&logo=bookstack&logoColor=white&link=https://base.chetan-thapliyal.cloud/)](https://base.chetan-thapliyal.cloud/)
+  [![Mail Badge](https://img.shields.io/badge/-Mail%20Me-840010?style=flat-square&logo=protonmail&logoColor=white&link=mailto:chetan.thapliyal@protonmail.com)](mailto:chetan.thapliyal@protonmail.com)
   [![Twitter Badge](https://img.shields.io/badge/-Tweet-000000?style=flat-square&label&logo=X&link=https://twitter.com/ChetanThapliyal)](https://twitter.com/ChetanThapliyal)
 
 </div>
@@ -43,9 +45,16 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" alt="grafana" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="go" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" alt="astro" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitbook/gitbook-original.svg" alt="gitbook" width="45" height="45"/>
 </p>
+
+---
+
+## 🏗️ Currently Building
+
+**[Project-Aether](https://base.chetan-thapliyal.cloud/)** — a self-hosted, production-grade Kubernetes platform on a bare-metal k3s cluster (1 control plane + 2 workers), built around GitOps-enforced deployments (ArgoCD), infrastructure-as-code (Terraform), encrypted secrets (SOPS+age), zero-trust networking (Tailscale), and a full metrics/logging/tracing observability stack.
 
 ---
 
