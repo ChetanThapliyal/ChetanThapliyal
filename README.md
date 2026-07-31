@@ -3,9 +3,8 @@
 ### Cloud & DevOps Engineer from India | GCP Certified Cloud Architect | CKA
 ---
 
-- 🔭 Currently building **Project-Aether** — a production-grade k3s homelab (multi-node cluster, ArgoCD GitOps, Terraform provisioning, SOPS+age secrets, Tailscale zero-trust access, full observability stack)
-- 🎯 Working through the **Google Cloud Arcade Facilitator Program 2026**, targeting the Arcade Legend tier
-- ✍️ Technical writer & freelance ghostwriter — 30+ posts on Hashnode, plus a structured knowledge base ([**Lexicon**](https://base.chetan-thapliyal.cloud/)) covering Kubernetes, GCP, CI/CD, and IaC
+- 🔭 Currently building **Project-Aether** - a production-grade k3s homelab (multi-node cluster, ArgoCD GitOps, Terraform provisioning, SOPS+age secrets, Tailscale zero-trust access, full observability stack)
+- ✍️ Technical writer & freelance ghostwriter - 30+ posts on Hashnode, plus a structured knowledge base ([**Lexicon**](https://base.chetan-thapliyal.cloud/)) covering Kubernetes, GCP, CI/CD, and IaC
 - 🌱 Deepening expertise in platform engineering, GitOps workflows, and cloud-native observability
 - 👯 Open to collaboration on Cloud, DevOps, and Platform Engineering projects — always eager to contribute and learn
 - ⚡ Fun fact: outside of infra work, I'm chipping away at JLPT N3 Japanese and tending a home garden
