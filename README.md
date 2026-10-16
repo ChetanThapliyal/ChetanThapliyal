@@ -53,7 +53,7 @@
 
 ## 🏗️ Currently Building
 
-**[Project-Aether](https://base.chetan-thapliyal.cloud/)** — a self-hosted, production-grade Kubernetes platform on a bare-metal k3s cluster (1 control plane + 2 workers), built around GitOps-enforced deployments (ArgoCD), infrastructure-as-code (Terraform), encrypted secrets (SOPS+age), zero-trust networking (Tailscale), and a full metrics/logging/tracing observability stack.
+**[Project-Aether](https://github.com/ChetanThapliyal/Project-Aether)** — a self-hosted, production-grade Kubernetes platform on a bare-metal k3s cluster (1 control plane + 2 workers), built around GitOps-enforced deployments (ArgoCD), infrastructure-as-code (Terraform), encrypted secrets (SOPS+age), zero-trust networking (Tailscale), and a full metrics/logging/tracing observability stack.
 
 ---
 
